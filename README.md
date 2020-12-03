@@ -5,7 +5,10 @@
 #### Click here: [Health Bites](https://healthy-bites.tk/)
 
 ```
-`This project aims to develop,deploy,manage a static website on Amazon Web Services (AWS), while keeping operational simplicity and business requirements in mind.We are also using an approach that provides:`
+`This project aims to develop,deploy,manage a static website on Amazon Web 
+Services (AWS),while keeping operational simplicity and business requirements
+in mind.We are also using
+an approach that provides:`
 
 * insignificant cost of operation.
 * little or no management required.

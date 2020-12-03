@@ -2,7 +2,7 @@
 
 ### _To see the project live:_
 
-#### Click here: [Health Bites](https://healthy-bites.tk/)
+#### Click here: [Healthy Bites](https://healthy-bites.tk/)
 
 ```
 `This project aims to develop,deploy,manage a static website on Amazon Web 

@@ -29,17 +29,21 @@ For the Website:
     * CSS
     * Javascript
 
-For Cutom domain name:
+For Custom domain name:
     www.freenom.com
 
 ```
 
 ```
-> For the whole procedure of Hosting in AWS, Please refer to the project report document(Availabe in the repository..).
+> For the whole procedure of Hosting in AWS, 
+Please refer to the project report document
+(Availabe in the repository..).
 
 ```
 
 ```
-This minor project is Submitted in partial fulfilment of the requirements for the award of Bachelor of Technology (B.Tech) In the department of Computer Science & Engineering of Kaziranga University.
+This minor project is Submitted in partial fulfilment of the requirements for 
+the award of Bachelor of Technology (B.Tech) In the department of Computer 
+Science & Engineering of Kaziranga University.
 
 ```

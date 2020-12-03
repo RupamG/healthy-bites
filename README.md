@@ -4,6 +4,8 @@
 
 #### Click here: [Healthy Bites](https://healthy-bites.tk/)
 
+<div style="width:360px;max-width:100%;"><div style="height:0;padding-bottom:62.5%;position:relative;"><iframe width="360" height="225" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4osqxb"></iframe></div><p><a href="https://imgflip.com/gif/4osqxb">via Imgflip</a></p></div>
+
 ```
 `This project aims to develop,deploy,manage a static website on Amazon Web 
 Services (AWS),while keeping operational simplicity and business requirements
